@@ -1,0 +1,6 @@
+docker\Testing\DockerTests.class
+dockers\ChromeTest2.class
+dockers\ChromeTest3.class
+dockers\SetupDockerGrid.class
+dockers\ChromeTest.class
+dockers\FireFoxTest.class
